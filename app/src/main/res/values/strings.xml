@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kashmay</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Kashmay</string>
+    <string name="nav_header_subtitle">By MSTC VIT</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="diagnosis">Diagnosis</string>
+    <string name="communicate">Communicate</string>
+    <string name="patient_record">Patient Record</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">Contact Us</string>
+</resources>
